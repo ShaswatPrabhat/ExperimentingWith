@@ -1,0 +1,5 @@
+div#one {display: flex;}
+div#two { display: inline-flex;}
+
+div { border: 1px dashed; background: silver; margin:10px;}
+div > * { border: 1px solid; background:#AAA; margin: 10px;}
